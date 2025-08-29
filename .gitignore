@@ -1,0 +1,28 @@
+# Ignore Maven build output
+target/
+
+# Ignore Maven binary distribution
+apache-maven-*/
+maven.zip
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# IDE-specific files
+*.iml
+.idea/
+.vscode/
+.classpath
+.project
+.settings/
+
+# Backup files
+*.bak
+*.swp
+*~
